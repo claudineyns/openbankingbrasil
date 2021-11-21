@@ -20,7 +20,7 @@ Exemplo de implementação para [Motor de Conformidade OpenID](https://openid.ne
 
 ## Logs
 
-.
+[Client Data](https://raw.githubusercontent.com/claudineyns/openbankingbrasil/main/log/client_data.zip)
 
 ## Autores (Authors)
 
