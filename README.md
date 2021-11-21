@@ -2,17 +2,25 @@
 
 Exemplo de implementação para [Motor de Conformidade OpenID](https://openid.net/certification/) para Instituições Receptoras de Dados (fase 2) e Iniciadoras de Pagamento (fase 3) do OpenBanking Brasil.
 
+## Test Plans
+
+### Accounts
+
+* [FAPI 1.0 Advanced Final (Open Banking Brazil) - Relying Party (Client) - Accounts - MTLS](https://www.certification.openid.net/plan-detail.html?plan=hkX1QRDCSq5o9&public=true)
+* [FAPI 1.0 Advanced Final (Open Banking Brazil) - Relying Party (Client) - Accounts - MTLS, JARM](https://www.certification.openid.net/plan-detail.html?plan=WmLpoqTOfHoSu&public=true)
+* [FAPI 1.0 Advanced Final (Open Banking Brazil) - Relying Party (Client) - Accounts - Private Key](https://www.certification.openid.net/plan-detail.html?plan=hZDuYIhBrgAMY&public=true)
+* [FAPI 1.0 Advanced Final (Open Banking Brazil) - Relying Party (Client) - Accounts - Private Key, JARM](https://www.certification.openid.net/plan-detail.html?plan=NbjgJmnpVQ5JP&public=true)
+
+### Payments
+
+* [FAPI 1.0 Advanced Final (Open Banking Brazil) - Relying Party (Client) - Payments - MTLS](https://www.certification.openid.net/plan-detail.html?plan=cjD5U1PmR77YM&public=true)
+* [FAPI 1.0 Advanced Final (Open Banking Brazil) - Relying Party (Client) - Payments - MTLS, JARM](https://www.certification.openid.net/plan-detail.html?plan=HZITQH3F7qYyD&public=true)
+* [FAPI 1.0 Advanced Final (Open Banking Brazil) - Relying Party (Client) - Payments - Private Key](https://www.certification.openid.net/plan-detail.html?plan=gmVtjGMZMDB3u&public=true)
+* [FAPI 1.0 Advanced Final (Open Banking Brazil) - Relying Party (Client) - Payments - Private Key, JARM](https://www.certification.openid.net/plan-detail.html?plan=hANLsxsbpoVsz&public=true)
+
 ## Logs
 
-### tls_client_auth
-
-* [fapi1-advanced-final-brazil-client-test-plan: Mtls](https://www.certification.openid.net/plan-detail.html?plan=lQjT1p9DOchV6&public=true)
-* [fapi1-advanced-final-brazil-client-test-plan: Mtls: logs](https://github.com/claudineyns/openbankingbrasil/raw/main/log/mtls.zip)
-
-### private_key_jwt
-
-* [fapi1-advanced-final-brazil-client-test-plan: private_key_jwt](https://www.certification.openid.net/plan-detail.html?plan=LyMvoK916orGn&public=true)
-* [fapi1-advanced-final-brazil-client-test-plan: private_key_jwt: Logs](https://github.com/claudineyns/openbankingbrasil/raw/main/log/private_key_jwt.zip)
+.
 
 ## Autores (Authors)
 
